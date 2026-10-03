@@ -1,6 +1,6 @@
 Name:		python-truststore
 Version:	0.10.4
-Release:	2
+Release:	3
 Summary:	Verify certificates using native system trust stores
 License:	MIT
 Group:		Development/Python
